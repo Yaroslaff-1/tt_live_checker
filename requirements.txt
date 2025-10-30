@@ -1,2 +1,5 @@
 tiktok_live_checker.py
+python-telegram-bot
+aiohttp
+flask
 requirements.txt
